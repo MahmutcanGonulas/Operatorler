@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\bin\Debug\net6.0\3-Operatorler.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\bin\Debug\net6.0\3-Operatorler.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\bin\Debug\net6.0\3-Operatorler.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\bin\Debug\net6.0\3-Operatorler.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\bin\Debug\net6.0\3-Operatorler.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\obj\Debug\net6.0\3-Operatorler.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\obj\Debug\net6.0\3-Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\obj\Debug\net6.0\3-Operatorler.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\obj\Debug\net6.0\3-Operatorler.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\obj\Debug\net6.0\3-Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\obj\Debug\net6.0\3-Operatorler.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\obj\Debug\net6.0\refint\3-Operatorler.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\obj\Debug\net6.0\3-Operatorler.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\obj\Debug\net6.0\3-Operatorler.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\3-Operatorler\obj\Debug\net6.0\ref\3-Operatorler.dll
